@@ -1,5 +1,7 @@
 # QA and Automation 101
 
+The first edition of the QA and Automation course in Hack Bulgaria
+
 In this course students will learn the basic theory behind software quality
 assurance and test automation. More importantly they will learn how to think
 like testers and analyze a given problem from various angles, often without
